@@ -1,4 +1,7 @@
 dependencies:
+- name: aya-day-weather-app
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.20
 - name: aya-day-weather-proxy
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.13
